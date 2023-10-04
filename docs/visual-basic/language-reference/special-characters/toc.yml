@@ -1,5 +1,0 @@
-- name: Special Characters
-  href: index.md
-  items:
-  - name: $ -- string interpolation
-    href: interpolated.md
