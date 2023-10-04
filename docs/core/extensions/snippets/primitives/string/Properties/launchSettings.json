@@ -1,8 +1,0 @@
-{
-  "profiles": {
-    "tokenizers": {
-      "commandName": "Project",
-      "commandLineArgs": "true"
-    }
-  }
-}
