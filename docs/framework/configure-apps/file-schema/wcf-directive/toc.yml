@@ -1,5 +1,0 @@
-- name: WCF Directive Syntax
-  href: index.md
-  items:
-  - name: "@ServiceHost"
-    href: servicehost.md
